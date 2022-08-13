@@ -1,4 +1,19 @@
-# **FinTech Bootcamp Module 1 Challenge - Securitize Inc Case Study**
+# **FinTech Bootcamp Module 1 Challenge - Securitize Inc**
+
+## **Description**
+Fintech Bootcamp - Unit 1 Homework Assignement: Fintech Case Study
+
+## Table of Contents
+
+* Overview and Origin
+* Business Activities
+* Landscape
+* Results
+* Results
+* Recommendations
+* References
+
+<br/><br/>
 
 ## **Overview and Origin**
 Securitize Inc is a digital asses securities firm that provides a platform for investors to invest in private market digital assets or security tokens. Traditionally, the private equity markets has been considered an illiquid asset class and Securitize Inc aims to promote this asset class by utilizing blockchain technology to allow investors to trade and access funds with far less friction and thereby increase the liquidity and tradeability of these assets.
