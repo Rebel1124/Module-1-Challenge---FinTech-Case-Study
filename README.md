@@ -1,4 +1,4 @@
-# **FinTech Bootcamp Module 1 Challenge - Securitize Inc**
+# **FinTech Bootcamp Module 1 Challenge**
 
 ## **Description**
 Fintech Case Study
