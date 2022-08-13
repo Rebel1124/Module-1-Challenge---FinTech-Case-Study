@@ -1,7 +1,7 @@
 # **FinTech Bootcamp Module 1 Challenge - Securitize Inc**
 
 ## **Description**
-Fintech Bootcamp - Unit 1 Homework Assignement: Fintech Case Study
+Fintech Case Study
 
 ## Table of Contents
 
