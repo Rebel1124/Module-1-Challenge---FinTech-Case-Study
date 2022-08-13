@@ -130,7 +130,7 @@ Simply, it would enhance the transparency, efficiency and breadth of the private
 
 ## **References**
 
-* *https://www.crunchbase.com/organization/securitize-inc/company_financials*
+*https://www.crunchbase.com/organization/securitize-inc/company_financials*
 
 * *https://securitize.io/about-us#our-story*
 
