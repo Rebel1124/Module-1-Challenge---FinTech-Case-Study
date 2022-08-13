@@ -132,14 +132,14 @@ Simply, it would enhance the transparency, efficiency and breadth of the private
 
 *https://www.crunchbase.com/organization/securitize-inc/company_financials*
 
-* *https://securitize.io/about-us#our-story*
+*https://securitize.io/about-us#our-story*
 
-* *https://pitchbook.com/profiles/company/227068-12#overview*
+*https://pitchbook.com/profiles/company/227068-12#overview*
 
-* *https://www.zoominfo.com/c/securitize-inc/441822158*
+*https://www.zoominfo.com/c/securitize-inc/441822158*
 
-* *https://www.rblt.com/company/securitize*
+*https://www.rblt.com/company/securitize*
 
-* *https://en.wikipedia.org/wiki/Securitize,_Inc*
+*https://en.wikipedia.org/wiki/Securitize,_Inc*
 
-* *https://www.ibisworld.com/industry-statistics/market-size/private-equity-hedge-funds-investment-vehicles-united-states/*
+*https://www.ibisworld.com/industry-statistics/market-size/private-equity-hedge-funds-investment-vehicles-united-states/*
